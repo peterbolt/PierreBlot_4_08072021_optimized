@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://peterbolt.github.io/PierreBlot_4_08072021_optimized/sitemap.xml
